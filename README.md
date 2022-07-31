@@ -1,2 +1,2 @@
 # MyKashi
-It ia a mern stack project
+It is a mern stack project
